@@ -1,6 +1,6 @@
 # UAS_Lab3_OOPJava
 ## Link Youtube
-Link Youtube Project : [Clik Here](https://pages.github.com/).
+Link Youtube Project : [Clik Here](https://youtu.be/z2nr_qf7FZY).
 ## Anggota :
 #### 1. Pieter Tanoto (211401015)
 #### 2. Lorenzo Liunardo (211401061)
